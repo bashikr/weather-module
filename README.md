@@ -12,15 +12,11 @@ Before you install the moduel, be sure to have the same **autoload and require**
 "autoload": {
     "psr-4": {
         "Anax\\": "src/",
-        "bashikr\\": "src/"
+        "Bashar\\": "src/"
     }
 },
 ```
 
-```
-"require": {
-    "bashikr/weather-module": "^1.0.0"
-},
 ```
 ### Install using composer.
 
