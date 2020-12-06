@@ -41,7 +41,7 @@ bash vendor/bashikr/weather-module/.anax/scaffold/postprocess.d/700_weather_modu
 config/OpnWrMpToken.php
 ```
 
-**Insert your weather token inside this file**
+**Insert your ip token inside this file**
 
 ```
 # Go to the root of your Anax base repo
