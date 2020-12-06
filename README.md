@@ -17,7 +17,6 @@ Before you install the moduel, be sure to have the same **autoload and require**
 },
 ```
 
-```
 ### Install using composer.
 
 To install weather-module using composer enter the following command:
