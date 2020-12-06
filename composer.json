@@ -1,0 +1,36 @@
+{
+    "name": "bashikr/weather-module",
+    "type": "library",
+    "description": "Anax weather module.",
+    "keywords": ["weather", "mvc", "module", "education"],
+    "homepage": "http://www.student.bth.se/~baaa19/dbwebb-kurser/ramverk1/me/redovisa/htdocs/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bashar Altaleb",
+            "email": "bashikr@gmail.com",
+            "homepage": "http://www.student.bth.se/~baaa19/dbwebb-kurser/ramverk1/me/redovisa/htdocs/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/bashikr/weather-module/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "Anax\\": "src/",
+            "bashikr\\": "src/"
+        }
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.4",
+        "anax/commons": "^2.0.14"
+    },
+    "require-dev": {
+        "phpmetrics/phpmetrics": "^2",
+        "phpunit/phpunit": "^7",
+        "anax/anax": "^2.0.17"
+    }
+}
