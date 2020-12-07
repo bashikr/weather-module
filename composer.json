@@ -19,7 +19,7 @@
     "autoload": {
         "psr-4": {
             "Anax\\": "src/",
-            "bashikr\\": "src/"
+            "Bashar\\": "src/"
         }
     },
     "minimum-stability": "beta",
