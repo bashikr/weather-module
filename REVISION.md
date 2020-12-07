@@ -1,6 +1,10 @@
 Revision history
 =================================
 
+v1.0.8 (2020-12-07)
+---------------------------------
+
+* Added instructional text inside geoToken.php and OpnWrMpToken.php.
 
 v1.0.7 (2020-12-07)
 ---------------------------------

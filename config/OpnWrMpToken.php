@@ -3,5 +3,5 @@
  * Config file.
  */
 return [
-    "message" => "",
+    "message" => "Enter your weather token",
 ];
