@@ -31,6 +31,7 @@ composer require bashikr/weather-module
 bash vendor/bashikr/weather-module/.anax/scaffold/postprocess.d/700_weather_module.bash
 
 ```
+Once You have executed the before mentioned bash command, the structure of your ../config/page.php will be changeed. Therefore you have to replace the content of page.php again with your original content. Here you can copy the Anax boilerplate code for [page.php](https://github.com/bashikr/ramverk1/blob/v3.1.0/config/page.php)
 
 ### Please don't forget to add your tokens inside the config repository:
 
