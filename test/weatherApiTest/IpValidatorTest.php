@@ -45,5 +45,4 @@ class IpValidatorTest extends TestCase
         $res2 = $this->controller->validateIpInput($testIPv4);
         $this->assertTrue($res2);
     }
-
 }
