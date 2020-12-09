@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/bashikr/weather-module.svg?branch=main)](https://travis-ci.com/bashikr/weather-module)
 Weather Module (bashikr/weather-module)
 ==================================
 
