@@ -1,4 +1,10 @@
 [![Build Status](https://travis-ci.com/bashikr/weather-module.svg?branch=main)](https://travis-ci.com/bashikr/weather-module)
+[![CircleCI](https://circleci.com/gh/bashikr/weather-module.svg?style=svg)](https://app.circleci.com/pipelines/github/bashikr/weather-module)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/bashikr/weather-module/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/bashikr/weather-module/?branch=main)
+[![Code Coverage](https://scrutinizer-ci.com/g/bashikr/weather-module/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/bashikr/weather-module/?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/bashikr/weather-module/badges/build.png?b=main)](https://scrutinizer-ci.com/g/bashikr/weather-module/build-status/main)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/bashikr/weather-module/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
+
 Weather Module (bashikr/weather-module)
 ==================================
 
