@@ -1,0 +1,18 @@
+execution:
+- concurrency: 50
+  ramp-up: 2m
+  hold-for: 3m
+  scenario: TwoCheckout
+
+scenarios:
+    TwoCheckout:
+        requests: 
+        - label: blazedemo
+          method: GET
+          url: http://blazeDemo.com/
+        - label: reserve
+          method: POST
+          url: http://blazedemo.com/reserve.php
+          body:
+          fromPort: Paris
+          toPort: Bunos Aires
