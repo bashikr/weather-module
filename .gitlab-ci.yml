@@ -1,6 +1,8 @@
 image: php:7.4
 
 before_script:
+    - apt-get update -qq && apt-get install -y -qq curl
+    - curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
     - composer install
     - composer self-update
     - make install check
