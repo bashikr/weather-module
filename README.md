@@ -4,7 +4,7 @@
 [![Code Coverage](https://scrutinizer-ci.com/g/bashikr/weather-module/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/bashikr/weather-module/?branch=main)
 [![Build Status](https://scrutinizer-ci.com/g/bashikr/weather-module/badges/build.png?b=main)](https://scrutinizer-ci.com/g/bashikr/weather-module/build-status/main)
 [![Code Intelligence Status](https://scrutinizer-ci.com/g/bashikr/weather-module/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
-[![Pipeline GitLab](https://gitlab.com/bashar_altaleb/weather-module/badges/main/pipeline.svg)](https://gitlab.com/bashar_altaleb/weather-module)
+[![Pipeline GitLab](https://gitlab.com/bashar_altaleb/weather-module/badges/main/pipeline.svg?b=main)](https://gitlab.com/bashar_altaleb/weather-module)
 
 Weather Module (bashikr/weather-module)
 ==================================
